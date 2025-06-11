@@ -98,28 +98,32 @@ This project explores Bayesian statistical methods for analyzing rent prices usi
 
 in Canada
 
-*[Combinatorial Optimization 1 (FR)](link_to_file)
+* [Combinatorial Optimization 1 (FR)](https://github.com/Diaby02/Projects/blob/main/Master2/OptimisationCombinatoire_Projet1_FR.pdf)
 
 The document presents solutions to combinatorial optimization problems. The first problem involves aligning four colored cubes to form a prism with distinct colors on each face. The second problem focuses on optimizing employee schedules to minimize costs while meeting demand and constraints, using solvers like OR-Tools and Highs.
 
-*[Combinatorial Optimization Research (FR)](link_to_file)
-*[HCM Research 5 (FR)](link_to_file)
+* [Combinatorial Optimization Research (FR)](link_to_file)
+
+The project focuses on implementing a global constraint filtering algorithm using dual numbers to handle various objective functions. It leverages interval arithmetic and function monotonicity to provide bounds for optimization problems, specifically targeting dispersion minimization problems like variance. The algorithm is tested and compared with existing methods.
+
+* [HCM Research 5 (FR)](https://github.com/Diaby02/Projects/blob/main/Master2/HMI_ResearchProject_FR.pdf)
 
 This document explores the advantages and disadvantages of gamification in user interfaces. It highlights how gamification can enhance motivation, learning, and user engagement across various fields such as health, education, and business. However, it also points out significant challenges, including a lack of longitudinal studies, ethical concerns, and difficulties in standardization. The paper critically examines these aspects and suggests pathways for better integration of gamification in user interface design.
 
-*[NLP Project 1 (FR)](link_to_file)
+* [NLP Project 1 (FR)](https://github.com/Diaby02/Projects/tree/main/Master2/NLP1)
 
 The documents describe three distinct tasks related to natural language processing and data extraction. The first task involves extracting information from recipes, likely focusing on ingredients and instructions. The second task is about correcting proverbs, which involves identifying and fixing errors in traditional sayings. The third task pertains to the automatic classification of incident descriptions, which involves categorizing textual descriptions of incidents into predefined classes.
 
-*[NLP Project 2 (FR)](link_to_file)
+* [NLP Project 2 (FR)](https://github.com/Diaby02/Projects/tree/main/Master2/NLP2)
 
 This project aims to correct distorted French proverbs by replacing incorrect verbs with suitable ones from a given list. It uses two transformer models: one for POS tagging to identify the verb, and another for masked language modeling to select the best replacement. The approach avoids large language models and relies on pre-trained Hugging Face models like CamemBERT. Performance is evaluated quantitatively and qualitatively on a test dataset, with improvements through post-processing and verb tense alignment.
 
-*[NLP Project 3 (FR)](link_to_file)
+* [NLP Project 3 (FR)](https://github.com/Diaby02/Projects/tree/main/Master2/NLP3)
 
 This project compares the summarization performance of eight lightweight LLMs on Enron emails using various prompt strategies. It evaluates BLEU, ROUGE, and BERTScore metrics against reference models (Pegasus, BART). Results show that RedPajama and Gemma consistently outperform others, especially with well-designed prompts. The study also analyzes inference time and highlights the impact of prompt engineering on model accuracy and efficiency.
 
 
 in Belgium
-*[Master thesis](link_to_repo)
+
+* [Master thesis](https://github.com/Diaby02/EasyCounting)
 
