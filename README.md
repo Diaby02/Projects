@@ -106,7 +106,7 @@ The document presents solutions to combinatorial optimization problems. The firs
 
 The project focuses on implementing a global constraint filtering algorithm using dual numbers to handle various objective functions. It leverages interval arithmetic and function monotonicity to provide bounds for optimization problems, specifically targeting dispersion minimization problems like variance. The algorithm is tested and compared with existing methods.
 
-* [HCM Research 5 (FR)](https://github.com/Diaby02/Projects/blob/main/Master2/HMI_ResearchProject_FR.pdf)
+* [HCM Research (FR)](https://github.com/Diaby02/Projects/blob/main/Master2/HMI_ResearchProject_FR.pdf)
 
 This document explores the advantages and disadvantages of gamification in user interfaces. It highlights how gamification can enhance motivation, learning, and user engagement across various fields such as health, education, and business. However, it also points out significant challenges, including a lack of longitudinal studies, ethical concerns, and difficulties in standardization. The paper critically examines these aspects and suggests pathways for better integration of gamification in user interface design.
 
